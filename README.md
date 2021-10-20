@@ -32,4 +32,4 @@ choco install hugo-extended -confirm
 - Scoop 
 
 ## Install using Github repository
-
+Go to this link https://github.com/gohugoio/hugo/releases
