@@ -19,5 +19,6 @@ This articel contain how to setup before make a website using <b>GoHugo</b>
 ## software management
   
 - Chocolatey <br>
-Open Powershell using administrator
+Open Powershell using administrator <br>
+visit[https://chocolatey.org/install]
 - Scoop 
