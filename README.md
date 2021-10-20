@@ -20,7 +20,7 @@ This articel contain how to setup before make a website using <b>GoHugo</b>
   
 - Chocolatey <br>
 Open Powershell using administrator <br>
-visit (https://chocolatey.org/install)
+visit (https://chocolatey.org/install) <br>
 After success instalation just install with this code:<br>
 ```
 choco install hugo -confirm
