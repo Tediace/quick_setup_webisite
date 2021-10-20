@@ -32,4 +32,10 @@ choco install hugo-extended -confirm
 - Scoop 
 
 ## Install using Github repository
-Go to this link https://github.com/gohugoio/hugo/releases
+- Go to this link https://github.com/gohugoio/hugo/releases (download zip file 32/64 bit)
+- Extract file and name new folder Hugo
+- Edit system environment varaibles<br>
+- 
+
+
+
