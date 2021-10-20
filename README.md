@@ -30,3 +30,6 @@ The extended Sass/SCSS version:
 choco install hugo-extended -confirm
 ```
 - Scoop 
+
+## Install using Github repository
+
