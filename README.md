@@ -42,6 +42,9 @@ Hugo (Windows + C "type CMD")
 ```
 Hugo version
 ```
-
+Chocolatey (open CMD)
+``` 
+choco --version
+```
 
 
