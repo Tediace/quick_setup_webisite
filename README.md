@@ -35,7 +35,7 @@ choco install hugo-extended -confirm
 - Go to this link https://github.com/gohugoio/hugo/releases (download zip file 32/64 bit)
 - Extract file and name new folder Hugo
 - Edit system environment varaibles<br>
-- 
+![This image path the system environment](https://user-images.githubusercontent.com/43319929/138188497-8951e940-a890-48e5-9351-600a6241eb65.png)
 
 
 
